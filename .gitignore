@@ -101,3 +101,7 @@ ENV/
 .mypy_cache/
 
 .DS_Store
+
+ffmpeg-4.1-64bit-static/
+ffmpeg-release-64bit-static.tar.xz
+resnext-101-64f-kinetics-ucf101_split1.pth
